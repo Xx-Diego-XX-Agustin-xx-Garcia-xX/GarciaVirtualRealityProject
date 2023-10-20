@@ -96,5 +96,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f6ac28a9f9305943a2412370181c682, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 90
+  reticle: {fileID: 0}
+  speed: 180
   direction: {x: 0, y: 360, z: 0}
